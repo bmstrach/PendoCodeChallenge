@@ -1,7 +1,7 @@
 # PendoCodeChallenge
 Script for Code challenge
 
-# Included this information in the script, but wanted to make sure I made note of my environmenthere as well.
+# Included this information in the script, but wanted to make sure I made note of my environment here as well.
 # Had to download selenium web driver and Chrome web driver. Version information and command used are listed below.
 # Note:
 # Versions this script was developed on
