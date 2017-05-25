@@ -1,8 +1,6 @@
 #!/usr/bin/python
 # Coding Challenge
 
-# https://stackoverflow.com/questions/18387598/selenium-webdriver-click-google-search
-
 # Python version
 # Python 2.7.10
 
